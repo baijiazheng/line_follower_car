@@ -21,7 +21,23 @@ This is an Arduino-based smart car project that supports two modes: **Infrared L
 - TB6612 Motor Driver Module *2
 
 ## Wiring Instructions
+[智能小车完整接线手册.xlsx](https://github.com/user-attachments/files/27086095/default.xlsx)
+- **Every safety rule in this manual stems from a burned module, a track runaway, or a whole night of futile debugging.**
+- **Please check each item carefully and do not repeat my mistakes.**
+- This wiring manual is the hardware counterpart to our code.
+- It's designed so that a new teammate with zero experience can safely power up the car within 30 minutes.
+- Every rule in it was learned the hard way.
 
+
+
+
+
+
+
+请再提供一些关于安全规则的具体例子。
+如何确保所有团队成员都理解并遵守这些安全规则？
+有没有相关的培训资料或教程来帮助我们更好地理解和应用这些安全规则？
+**
 
 ## Key Design
 - **Non-blocking architecture**: All sensor reading and PID calculation are based on millis() without using delay().
