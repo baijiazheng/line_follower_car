@@ -1,5 +1,5 @@
 # line_follower_car
-// A seed is planted here  
+**A seed is planted here**  
 This is the first project written by a sophomore majoring in Mechatronic Engineering.
 This code represents my first real encounter with the gap between simulation and reality. The logic is sound — the hardware environment was not. I'm working to close that gap.
 
@@ -35,6 +35,11 @@ This is an Arduino-based smart car project that supports two modes: **Infrared L
 - Unoptimized sensor layout with limited coverage of 5-channel sensors.
 
 ## Photos / Videos
+- <img width="1706" height="1279" alt="d8c6af9fdecceb6f29c73553ba6e5c37" src="https://github.com/user-attachments/assets/bb990f81-f393-4661-bcc5-3611da78af51" />
+- <img width="1706" height="1279" alt="3838b09edfb6fc69f96b186bac28c7de" src="https://github.com/user-attachments/assets/d2ff8660-b83d-4f3b-a42f-11e5fde491cc" />
+- MANU https://github.com/user-attachments/assets/2019864d-9a6c-4393-a8fa-ca62f66507d2
+- AUTO https://github.com/user-attachments/assets/2357c0ef-0793-441a-891f-d9a13de56d9a
+
 
 
 ## Author
