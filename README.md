@@ -28,17 +28,6 @@ This is an Arduino-based smart car project that supports two modes: **Infrared L
 - It's designed so that a new teammate with zero experience can safely power up the car within 30 minutes.
 - Every rule in it was learned the hard way.
 
-
-
-
-
-
-
-请再提供一些关于安全规则的具体例子。
-如何确保所有团队成员都理解并遵守这些安全规则？
-有没有相关的培训资料或教程来帮助我们更好地理解和应用这些安全规则？
-**
-
 ## Key Design
 - **Non-blocking architecture**: All sensor reading and PID calculation are based on millis() without using delay().
 - **Adjustable PID parameters**: Kp and steering gain can be modified via macro definitions.
